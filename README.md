@@ -24,5 +24,5 @@
 3. Следовать инструкции тут https://www.digitalocean.com/community/tutorials/wordpress-lamp-ubuntu-16-04-ru
 с раздела Настройка файла конфигурации WordPress.
 
-#Админу 
+# Админу 
 На свое усмотрение, но для инфы вот ресурс https://www.digitalocean.com/community/tutorials/wordpress-lamp-ubuntu-16-04-ru
