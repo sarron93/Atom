@@ -1,6 +1,7 @@
 # Atom
 Установка:
 1. Вирутальный хост
+```
 <VirtualHost *:80>
 	ServerName atom.loc
 	DocumentRoot "C:/xampp/htdocs/Atom"
@@ -18,6 +19,7 @@
 		</IfModule>		
 	</Directory>
 </VirtualHost>
+```
 2. Переименовываем файл wp-config-sample.php в wp-config.php
 3. Следовать инструкции тут https://www.digitalocean.com/community/tutorials/wordpress-lamp-ubuntu-16-04-ru
 с раздела Настройка файла конфигурации WordPress.
